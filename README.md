@@ -14,7 +14,8 @@
 * [Speed Limit](https://open.kattis.com/problems/speedlimit) - Py
 * [3D Printed Statues](open.kattis.com/problems/3dprinter) - C
 * [Ants](https://open.kattis.com/problems/ants) - C
-* 
+* [Proofs](https://open.kattis.com/problems/proofs) - Py
+* [](https://open.kattis.com/problems/) - 
 
 
 
