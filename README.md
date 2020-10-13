@@ -4,6 +4,8 @@
 
 
 
+\* note py = python3
+
 ## Questions
 
 * [Hello World!](https://open.kattis.com/problems/hello) - Python/Java/C
@@ -15,7 +17,9 @@
 * [3D Printed Statues](open.kattis.com/problems/3dprinter) - C
 * [Ants](https://open.kattis.com/problems/ants) - C
 * [Proofs](https://open.kattis.com/problems/proofs) - Py
-* [](https://open.kattis.com/problems/) - 
+* [cursethedarkness](https://open.kattis.com/problems/cursethedarkness) - C
+* [reversebinary](https://open.kattis.com/problems/reversebinary) - Py
+* [4thought](https://open.kattis.com/problems/4thought) - Py
 
 
 
