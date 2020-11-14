@@ -21,6 +21,17 @@
 * [reversebinary](https://open.kattis.com/problems/reversebinary) - Py
 * [4thought](https://open.kattis.com/problems/4thought) - Py
 
+### From Week 9 Practice
+
+* [aboveaverage](https://open.kattis.com/problems/aboveaverage) - c++
+* [beeproblem](https://open.kattis.com/problems/beeproblem) - c++, py (not working)
+* [classpicture](https://open.kattis.com/problems/classpicture) - c++
+* [glitchbot](https://open.kattis.com/problems/glitchbot) - c++
+* [grandpabernie](https://open.kattis.com/problems/grandpabernie) - Py
+* [mandelbrot](https://open.kattis.com/problems/mandelbrot) - c++
+* [matrix](https://open.kattis.com/problems/matrix) - c++
+* [sortofsorting](https://open.kattis.com/problems/sortofsorting) - Py
+
 
 
 ## License
