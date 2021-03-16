@@ -19,7 +19,7 @@ def main():
 
     # inits
     text = '\n'
-    mapping = {'py': 'Python', '.c': 'C', 'pp': 'C++'}
+    mapping = {'py': 'Python', '.c': 'C', 'pp': 'C++', 'va': "Java"}
 
     # generate clipboard items
     for _file in files:

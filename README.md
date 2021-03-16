@@ -24,10 +24,10 @@
 * [different](https://open.kattis.com/problems/different) - Python 
 * [earlywinter](https://open.kattis.com/problems/earlywinter) - C, C 
 * [faktor](https://open.kattis.com/problems/faktor) - C++ 
-* [FizzBuzz](https://open.kattis.com/problems/FizzBuzz) -  
+* [FizzBuzz](https://open.kattis.com/problems/FizzBuzz) - Java 
 * [glitchbot](https://open.kattis.com/problems/glitchbot) - C++ 
 * [grandpabernie](https://open.kattis.com/problems/grandpabernie) - Python 
-* [hello](https://open.kattis.com/problems/hello) - C, Python 
+* [hello](https://open.kattis.com/problems/hello) - C, Java, Python 
 * [hissingmicrophone](https://open.kattis.com/problems/hissingmicrophone) - Python 
 * [keywords](https://open.kattis.com/problems/keywords) - Python 
 * [mandelbrot](https://open.kattis.com/problems/mandelbrot) - C++ 
