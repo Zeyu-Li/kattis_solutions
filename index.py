@@ -4,8 +4,8 @@ Generate a List of Files along With File Type
 '''
 
 import os
-# requires pyperclip to copy to clipboard, otherwise, leave it out
-import pyperclip
+# requires pyperclip to copy to clipboard, otherwise, leave it in
+# import pyperclip
 
 
 def main():
@@ -32,8 +32,29 @@ def main():
 
         text += f"* [{_file}](https://open.kattis.com/problems/{_file}) - {file_types[:-2]} \n"
 
-    print(text)
-    pyperclip.copy(text)
+    front = """# Kattis (Competitive Programming)
+
+[Kattis](https://open.kattis.com/) is a repository of competitive programming questions (coding challenges). You can then submit your code and it will be evaluated
+
+
+
+## Questions """
+
+    end = """
+
+
+## License
+
+MIT"""
+
+    # debug
+    # print(text)
+    # pyperclip.copy(text)
+
+    # write to file README.md
+    with open('README.md', 'w') as fp:
+        fp.writelines(front + text + end)
+
     return 
 
 if __name__ == "__main__":
