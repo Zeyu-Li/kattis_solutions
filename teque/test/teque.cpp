@@ -3,7 +3,7 @@
 typedef long long ll;
 using namespace std;
 
-// native solution
+// naive solution
 int main() {
     ios::sync_with_stdio(0);
     cin.tie(0);
