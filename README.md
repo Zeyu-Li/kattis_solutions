@@ -42,6 +42,7 @@
 * [ladder](https://open.kattis.com/problems/ladder) - C++ 
 * [mandelbrot](https://open.kattis.com/problems/mandelbrot) - C++ 
 * [matrix](https://open.kattis.com/problems/matrix) - C++ 
+* [modulo](https://open.kattis.com/problems/modulo) - Python 
 * [nastyhacks](https://open.kattis.com/problems/nastyhacks) - C++ 
 * [oddities](https://open.kattis.com/problems/oddities) - C++ 
 * [pet](https://open.kattis.com/problems/pet) - Python 
