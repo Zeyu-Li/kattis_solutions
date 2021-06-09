@@ -12,7 +12,7 @@ def main():
     files = os.listdir()
 
     # remove non folder items manually
-    ignore = ['.git', '.gitignore', 'generate.py', 'index.py', 'LICENSE.txt', 'README.md']
+    ignore = ['.git', '.gitignore', '.github', 'generate.py', 'index.py', 'LICENSE.txt', 'README.md']
 
     for item in ignore:
         files.remove(item)
@@ -53,7 +53,7 @@ MIT"""
 
     # write to file README.md
     with open('README.md', 'w') as fp:
-        fp.writelines(front + text + end)
+        fp.writelines(front + text + f"\nCount: {len(files)}" + end)
 
     return 
 

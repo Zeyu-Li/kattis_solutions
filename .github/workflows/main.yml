@@ -1,0 +1,33 @@
+# see https://github.com/BaileyJM02/markdown-to-pdf
+# CANNOT DO INLINE LATEX :(
+
+name: Generate MD
+on: 
+  push:
+    branches:
+      - master
+      - test
+env:
+  GITHUB_TOKEN: ${{ github.token }}
+
+jobs:
+  toPDF:
+    name: Build PDF
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+      - uses: BSFishy/pip-action@v1
+      - run: |
+          python index.py
+
+      - name: Commits File 
+        uses: EndBug/add-and-commit@v7
+        with: 
+          add: 'README.pdf'
+          author_name: ${{ secrets.GH_NAME }}
+          author_email: ${{ secrets.GH_EMAIL }}
+          message: 'Bot Generated PDF Successfully'
+          push: true 
