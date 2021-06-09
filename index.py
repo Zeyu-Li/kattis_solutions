@@ -12,7 +12,7 @@ def main():
     files = os.listdir()
 
     # remove non folder items manually
-    ignore = ['.git', '.gitignore', '.github', 'generate.py', 'index.py', 'LICENSE.txt', 'README.md']
+    ignore = ['.git', '.gitignore', '.github', 'index.py', 'LICENSE.txt', 'README.md']
 
     print(files)
     print(os.getcwd())
