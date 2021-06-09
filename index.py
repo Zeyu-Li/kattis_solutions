@@ -14,6 +14,8 @@ def main():
     # remove non folder items manually
     ignore = ['.git', '.gitignore', '.github', 'generate.py', 'index.py', 'LICENSE.txt', 'README.md']
 
+    print(files)
+    print(os.getcwd())
     for item in ignore:
         files.remove(item)
 
