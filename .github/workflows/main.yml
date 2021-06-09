@@ -28,5 +28,5 @@ jobs:
           add: 'README.md'
           author_name: ${{ secrets.GH_NAME }}
           author_email: ${{ secrets.GH_EMAIL }}
-          message: 'Bot Generated PDF Successfully'
+          message: '🤖 Bot Generated PDF Successfully'
           push: true 
