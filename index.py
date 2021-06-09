@@ -34,6 +34,8 @@ def main():
 
     front = """# Kattis (Competitive Programming)
 
+![Build](https://github.com/Zeyu-Li/kattis_solutions/workflows/Generate%20MD/badge.svg)
+
 [Kattis](https://open.kattis.com/) is a repository of competitive programming questions (coding challenges). You can then submit your code and it will be evaluated
 
 
