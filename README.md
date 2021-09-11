@@ -8,6 +8,7 @@
 
 ## Questions 
 * [a1paper](https://open.kattis.com/problems/a1paper) - C++ 
+* [stopwatch](https://open.kattis.com/problems/stopwatch) - Python 
 * [cd](https://open.kattis.com/problems/cd) - C++ 
 * [planina](https://open.kattis.com/problems/planina) - C++ 
 * [qaly](https://open.kattis.com/problems/qaly) - C++ 
@@ -36,13 +37,16 @@
 * [teque](https://open.kattis.com/problems/teque) - C++ 
 * [timeloop](https://open.kattis.com/problems/timeloop) - C++ 
 * [sibice](https://open.kattis.com/problems/sibice) - C++ 
+* [distance](https://open.kattis.com/problems/distance) - Python 
 * [speedLimit](https://open.kattis.com/problems/speedLimit) - Python 
 * [oddities](https://open.kattis.com/problems/oddities) - C++ 
 * [twostones](https://open.kattis.com/problems/twostones) - C++ 
 * [8queens](https://open.kattis.com/problems/8queens) - C++ 
+* [vaccineefficacy](https://open.kattis.com/problems/vaccineefficacy) - Python 
 * [tarifa](https://open.kattis.com/problems/tarifa) - C++ 
 * [modulo](https://open.kattis.com/problems/modulo) - Python 
 * [pet](https://open.kattis.com/problems/pet) - Python 
+* [forcedchoice](https://open.kattis.com/problems/forcedchoice) - Python 
 * [quadrant](https://open.kattis.com/problems/quadrant) - C++ 
 * [greetings2](https://open.kattis.com/problems/greetings2) - Python 
 * [ants](https://open.kattis.com/problems/ants) - C 
@@ -69,7 +73,7 @@
 * [bela](https://open.kattis.com/problems/bela) - Python 
 * [beeproblem](https://open.kattis.com/problems/beeproblem) - Python, C++ 
 
-Count: 61
+Count: 65
 
 
 ## License
