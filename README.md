@@ -54,6 +54,7 @@
 * [oddities](https://open.kattis.com/problems/oddities) - C++ 
 * [pot](https://open.kattis.com/problems/pot) - C 
 * [finalexam2](https://open.kattis.com/problems/finalexam2) - C 
+* [simplearithmetic](https://open.kattis.com/problems/simplearithmetic) - C++ 
 * [speedLimit](https://open.kattis.com/problems/speedLimit) - Python 
 * [different](https://open.kattis.com/problems/different) - Python 
 * [mandelbrot](https://open.kattis.com/problems/mandelbrot) - C++ 
@@ -63,6 +64,7 @@
 * [stopwatch](https://open.kattis.com/problems/stopwatch) - Python 
 * [ladder](https://open.kattis.com/problems/ladder) - C++ 
 * [cd](https://open.kattis.com/problems/cd) - C++ 
+* [lastfactorialdigit](https://open.kattis.com/problems/lastfactorialdigit) - Python 
 * [carrots](https://open.kattis.com/problems/carrots) - C++ 
 * [cold](https://open.kattis.com/problems/cold) - C++ 
 * [qaly](https://open.kattis.com/problems/qaly) - C++ 
@@ -77,7 +79,7 @@
 * [grandpabernie](https://open.kattis.com/problems/grandpabernie) - Python 
 * [aboveaverage](https://open.kattis.com/problems/aboveaverage) - C++ 
 
-Count: 69
+Count: 71
 
 
 ## License
