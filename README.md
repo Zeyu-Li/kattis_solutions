@@ -35,6 +35,7 @@
 * [hello](https://open.kattis.com/problems/hello) - Python, C, Java 
 * [trik](https://open.kattis.com/problems/trik) - Python 
 * [bank](https://open.kattis.com/problems/bank) - C++ 
+* [electricaloutlets](https://open.kattis.com/problems/electricaloutlets) - Python 
 * [r2](https://open.kattis.com/problems/r2) - C++ 
 * [glitchbot](https://open.kattis.com/problems/glitchbot) - C++ 
 * [aaah](https://open.kattis.com/problems/aaah) - C++ 
@@ -59,7 +60,7 @@
 * [different](https://open.kattis.com/problems/different) - Python 
 * [mandelbrot](https://open.kattis.com/problems/mandelbrot) - C++ 
 * [apaxiaaans](https://open.kattis.com/problems/apaxiaaans) - C++ 
-* [beeproblem](https://open.kattis.com/problems/beeproblem) - C++, Python 
+* [beeproblem](https://open.kattis.com/problems/beeproblem) - C++ 
 * [timeloop](https://open.kattis.com/problems/timeloop) - C++ 
 * [stopwatch](https://open.kattis.com/problems/stopwatch) - Python 
 * [ladder](https://open.kattis.com/problems/ladder) - C++ 
@@ -79,7 +80,7 @@
 * [grandpabernie](https://open.kattis.com/problems/grandpabernie) - Python 
 * [aboveaverage](https://open.kattis.com/problems/aboveaverage) - C++ 
 
-Count: 71
+Count: 72
 
 
 ## License
