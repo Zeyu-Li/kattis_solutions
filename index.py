@@ -71,7 +71,7 @@ MIT"""
     score = '🤷‍♂️' 
     try:
         rank, kattis_score = get_score()
-        score = f'## Ranking\nScore: **{kattis_score}**\nRank: **{rank}**\n'
+        score = f'## Ranking\nScore: **{kattis_score}**\n\nRank: **{rank}**\n'
     except:
         # optionally throw an exception here
         pass
