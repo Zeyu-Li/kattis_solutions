@@ -17,6 +17,7 @@ def get_score():
     req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     soup = BeautifulSoup(urlopen(req).read(), features="lxml")
     # print(soup.find(class_='rank').table.select('tr')[1].get_text().split())
+    print(soup, req)
     
     return soup.find(class_='rank').table.select('tr')[1].get_text().split()
 
