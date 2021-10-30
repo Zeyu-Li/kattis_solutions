@@ -70,12 +70,12 @@ MIT"""
     # pyperclip.copy(text)
 
     score = '🤷‍♂️' 
-    try:
-        rank, kattis_score = get_score()
-        score = f'## Ranking\nScore: **{kattis_score}**\nRank: **{rank}**\n'
-    except:
-        # optionally throw an exception here
-        pass
+    # try:
+    rank, kattis_score = get_score()
+    score = f'## Ranking\nScore: **{kattis_score}**\nRank: **{rank}**\n'
+    # except:
+    #     # optionally throw an exception here
+    #     pass
 
     # write to file README.md
     with open('README.md', 'w') as fp:
