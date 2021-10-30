@@ -15,9 +15,8 @@ def get_score():
     # BeautifulSoup (I know it has a dependency but I want to learn bs4)
     url = "https://open.kattis.com/users/" + USERNAME
     req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-    soup = BeautifulSoup(urlopen(req).read(), features="lxml")
+    soup = BeautifulSoup(urlopen(req).read(), features="html.parser")
     # print(soup.find(class_='rank').table.select('tr')[1].get_text().split())
-    print(soup, req)
     
     return soup.find(class_='rank').table.select('tr')[1].get_text().split()
 
@@ -70,12 +69,12 @@ MIT"""
     # pyperclip.copy(text)
 
     score = '🤷‍♂️' 
-    # try:
-    rank, kattis_score = get_score()
-    score = f'## Ranking\nScore: **{kattis_score}**\nRank: **{rank}**\n'
-    # except:
-    #     # optionally throw an exception here
-    #     pass
+    try:
+        rank, kattis_score = get_score()
+        score = f'## Ranking\nScore: **{kattis_score}**\nRank: **{rank}**\n'
+    except:
+        # optionally throw an exception here
+        pass
 
     # write to file README.md
     with open('README.md', 'w') as fp:
