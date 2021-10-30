@@ -7,7 +7,9 @@
 
 
 ## Questions 
+* [fiftyshades](https://open.kattis.com/problems/fiftyshades) - Python 
 * [onechicken](https://open.kattis.com/problems/onechicken) - Python 
+* [trainboarding](https://open.kattis.com/problems/trainboarding) - Python 
 * [reversebinary](https://open.kattis.com/problems/reversebinary) - Python 
 * [proofs](https://open.kattis.com/problems/proofs) - Python 
 * [earlywinter](https://open.kattis.com/problems/earlywinter) - C 
@@ -67,6 +69,7 @@
 * [cd](https://open.kattis.com/problems/cd) - C++ 
 * [lastfactorialdigit](https://open.kattis.com/problems/lastfactorialdigit) - Python 
 * [carrots](https://open.kattis.com/problems/carrots) - C++ 
+* [pieceofcake2](https://open.kattis.com/problems/pieceofcake2) - C++ 
 * [cold](https://open.kattis.com/problems/cold) - C++ 
 * [qaly](https://open.kattis.com/problems/qaly) - C++ 
 * [tsp](https://open.kattis.com/problems/tsp) - C++ 
@@ -80,12 +83,12 @@
 * [grandpabernie](https://open.kattis.com/problems/grandpabernie) - Python 
 * [aboveaverage](https://open.kattis.com/problems/aboveaverage) - C++ 
 
-Count: 72
+Count: 75
 
 ## Ranking
-Score: **158.9**
+Score: **162.5**
 
-Rank: **4686**
+Rank: **4568**
 
 
 
