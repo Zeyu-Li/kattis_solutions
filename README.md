@@ -10,6 +10,7 @@
 * [FizzBuzz](https://open.kattis.com/problems/FizzBuzz) - Java 
 * [bank](https://open.kattis.com/problems/bank) - C++ 
 * [trainboarding](https://open.kattis.com/problems/trainboarding) - Python 
+* [quickbrownfox](https://open.kattis.com/problems/quickbrownfox) - C++ 
 * [oddities](https://open.kattis.com/problems/oddities) - C++ 
 * [vaccineefficacy](https://open.kattis.com/problems/vaccineefficacy) - Python 
 * [nastyhacks](https://open.kattis.com/problems/nastyhacks) - C++ 
@@ -23,6 +24,7 @@
 * [tarifa](https://open.kattis.com/problems/tarifa) - C++ 
 * [speedLimit](https://open.kattis.com/problems/speedLimit) - Python 
 * [grandpabernie](https://open.kattis.com/problems/grandpabernie) - Python 
+* [judgingmoose](https://open.kattis.com/problems/judgingmoose) - Python 
 * [8queens](https://open.kattis.com/problems/8queens) - C++ 
 * [keywords](https://open.kattis.com/problems/keywords) - Python 
 * [vote](https://open.kattis.com/problems/vote) - Python 
@@ -50,6 +52,7 @@
 * [simplearithmetic](https://open.kattis.com/problems/simplearithmetic) - C++ 
 * [stopwatch](https://open.kattis.com/problems/stopwatch) - Python 
 * [tsp](https://open.kattis.com/problems/tsp) - C++ 
+* [10kindsofpeople](https://open.kattis.com/problems/10kindsofpeople) - C++ 
 * [3dprinter](https://open.kattis.com/problems/3dprinter) - C 
 * [phonelist](https://open.kattis.com/problems/phonelist) - C++ 
 * [glitchbot](https://open.kattis.com/problems/glitchbot) - C++ 
@@ -86,12 +89,12 @@
 * [abc](https://open.kattis.com/problems/abc) - Python 
 * [quadrant](https://open.kattis.com/problems/quadrant) - C++ 
 
-Count: 78
+Count: 81
 
 ## Ranking
-Score: **166.3**
+Score: **173.3**
 
-Rank: **4463**
+Rank: **4261**
 
 
 
