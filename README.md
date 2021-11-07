@@ -30,6 +30,8 @@
 * [vote](https://open.kattis.com/problems/vote) - Python 
 * [ladder](https://open.kattis.com/problems/ladder) - C++ 
 * [estimatingtheareaofacircle](https://open.kattis.com/problems/estimatingtheareaofacircle) - Python 
+* [anewalphabet](https://open.kattis.com/problems/anewalphabet) - Python 
+* [mixedfractions](https://open.kattis.com/problems/mixedfractions) - C++ 
 * [twostones](https://open.kattis.com/problems/twostones) - C++ 
 * [addtwonumbers](https://open.kattis.com/problems/addtwonumbers) - Python 
 * [backspace](https://open.kattis.com/problems/backspace) - Python 
@@ -55,6 +57,7 @@
 * [10kindsofpeople](https://open.kattis.com/problems/10kindsofpeople) - C++ 
 * [3dprinter](https://open.kattis.com/problems/3dprinter) - C 
 * [phonelist](https://open.kattis.com/problems/phonelist) - C++ 
+* [unionfind](https://open.kattis.com/problems/unionfind) - C++ 
 * [glitchbot](https://open.kattis.com/problems/glitchbot) - C++ 
 * [earlywinter](https://open.kattis.com/problems/earlywinter) - C 
 * [matrix](https://open.kattis.com/problems/matrix) - C++ 
@@ -89,12 +92,12 @@
 * [abc](https://open.kattis.com/problems/abc) - Python 
 * [quadrant](https://open.kattis.com/problems/quadrant) - C++ 
 
-Count: 81
+Count: 84
 
 ## Ranking
-Score: **173.3**
+Score: **180.8**
 
-Rank: **4261**
+Rank: **4040**
 
 
 
