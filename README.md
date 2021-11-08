@@ -12,6 +12,7 @@
 * [trainboarding](https://open.kattis.com/problems/trainboarding) - Python 
 * [quickbrownfox](https://open.kattis.com/problems/quickbrownfox) - C++ 
 * [oddities](https://open.kattis.com/problems/oddities) - C++ 
+* [almostperfect](https://open.kattis.com/problems/almostperfect) - C++ 
 * [vaccineefficacy](https://open.kattis.com/problems/vaccineefficacy) - Python 
 * [nastyhacks](https://open.kattis.com/problems/nastyhacks) - C++ 
 * [ants](https://open.kattis.com/problems/ants) - C 
@@ -52,6 +53,7 @@
 * [cursethedarkness](https://open.kattis.com/problems/cursethedarkness) - C 
 * [cd](https://open.kattis.com/problems/cd) - C++ 
 * [simplearithmetic](https://open.kattis.com/problems/simplearithmetic) - C++ 
+* [addingwords](https://open.kattis.com/problems/addingwords) - Python 
 * [stopwatch](https://open.kattis.com/problems/stopwatch) - Python 
 * [tsp](https://open.kattis.com/problems/tsp) - C++ 
 * [10kindsofpeople](https://open.kattis.com/problems/10kindsofpeople) - C++ 
@@ -78,6 +80,7 @@
 * [guess](https://open.kattis.com/problems/guess) - C++ 
 * [getshorty](https://open.kattis.com/problems/getshorty) - C++ 
 * [beeproblem](https://open.kattis.com/problems/beeproblem) - C++ 
+* [isithalloween](https://open.kattis.com/problems/isithalloween) - Python 
 * [pot](https://open.kattis.com/problems/pot) - C 
 * [greetings2](https://open.kattis.com/problems/greetings2) - Python 
 * [heimavinna](https://open.kattis.com/problems/heimavinna) - Python 
@@ -92,12 +95,12 @@
 * [abc](https://open.kattis.com/problems/abc) - Python 
 * [quadrant](https://open.kattis.com/problems/quadrant) - C++ 
 
-Count: 84
+Count: 87
 
 ## Ranking
-Score: **180.8**
+Score: **195.8**
 
-Rank: **4040**
+Rank: **3697**
 
 
 
