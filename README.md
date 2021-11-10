@@ -25,6 +25,7 @@
 * [tarifa](https://open.kattis.com/problems/tarifa) - C++ 
 * [speedLimit](https://open.kattis.com/problems/speedLimit) - Python 
 * [grandpabernie](https://open.kattis.com/problems/grandpabernie) - Python 
+* [ninetynine](https://open.kattis.com/problems/ninetynine) - C++ 
 * [judgingmoose](https://open.kattis.com/problems/judgingmoose) - Python 
 * [8queens](https://open.kattis.com/problems/8queens) - C++ 
 * [keywords](https://open.kattis.com/problems/keywords) - Python 
@@ -33,6 +34,7 @@
 * [estimatingtheareaofacircle](https://open.kattis.com/problems/estimatingtheareaofacircle) - Python 
 * [anewalphabet](https://open.kattis.com/problems/anewalphabet) - Python 
 * [mixedfractions](https://open.kattis.com/problems/mixedfractions) - C++ 
+* [fyi](https://open.kattis.com/problems/fyi) - Python 
 * [twostones](https://open.kattis.com/problems/twostones) - C++ 
 * [addtwonumbers](https://open.kattis.com/problems/addtwonumbers) - Python 
 * [backspace](https://open.kattis.com/problems/backspace) - Python 
@@ -44,6 +46,7 @@
 * [carrots](https://open.kattis.com/problems/carrots) - C++ 
 * [bela](https://open.kattis.com/problems/bela) - Python 
 * [simonsays](https://open.kattis.com/problems/simonsays) - Python 
+* [fodelsedagsmemorisering](https://open.kattis.com/problems/fodelsedagsmemorisering) - Python 
 * [autori](https://open.kattis.com/problems/autori) - Python 
 * [a1paper](https://open.kattis.com/problems/a1paper) - C++ 
 * [proofs](https://open.kattis.com/problems/proofs) - Python 
@@ -95,12 +98,12 @@
 * [abc](https://open.kattis.com/problems/abc) - Python 
 * [quadrant](https://open.kattis.com/problems/quadrant) - C++ 
 
-Count: 87
+Count: 90
 
 ## Ranking
-Score: **195.8**
+Score: **205.8**
 
-Rank: **3697**
+Rank: **3499**
 
 
 
