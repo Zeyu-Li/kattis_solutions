@@ -22,7 +22,7 @@ def get_score():
 
 
 def main():
-    files = os.listdir()
+    files = sorted(os.listdir())
 
     # remove non folder items manually
     ignore = ['.git', '.gitignore', '.github', 'index.py', 'LICENSE.txt', 'README.md', 'generate.py']
@@ -34,7 +34,7 @@ def main():
 
     # inits
     text = '\n'
-    mapping = {'py': 'Python', '.c': 'C', 'pp': 'C++', 'va': "Java"}
+    mapping = {'py': 'Python', '.c': 'C', 'pp': 'C++', 'va': "Java", 'go': "Golang", 'js': "JavaScript"}
 
     # generate clipboard items
     for _file in files:
