@@ -7,6 +7,7 @@
 
 
 ## Questions 
+* [dicecup](https://open.kattis.com/problems/dicecup) - C++ 
 * [FizzBuzz](https://open.kattis.com/problems/FizzBuzz) - Java 
 * [bank](https://open.kattis.com/problems/bank) - C++ 
 * [trainboarding](https://open.kattis.com/problems/trainboarding) - Python 
@@ -47,6 +48,7 @@
 * [bela](https://open.kattis.com/problems/bela) - Python 
 * [simonsays](https://open.kattis.com/problems/simonsays) - Python 
 * [fodelsedagsmemorisering](https://open.kattis.com/problems/fodelsedagsmemorisering) - Python 
+* [zamka](https://open.kattis.com/problems/zamka) - C++ 
 * [autori](https://open.kattis.com/problems/autori) - Python 
 * [a1paper](https://open.kattis.com/problems/a1paper) - C++ 
 * [proofs](https://open.kattis.com/problems/proofs) - Python 
@@ -84,6 +86,7 @@
 * [getshorty](https://open.kattis.com/problems/getshorty) - C++ 
 * [beeproblem](https://open.kattis.com/problems/beeproblem) - C++ 
 * [isithalloween](https://open.kattis.com/problems/isithalloween) - Python 
+* [sevenwonders](https://open.kattis.com/problems/sevenwonders) - Python 
 * [pot](https://open.kattis.com/problems/pot) - C 
 * [greetings2](https://open.kattis.com/problems/greetings2) - Python 
 * [heimavinna](https://open.kattis.com/problems/heimavinna) - Python 
@@ -98,12 +101,12 @@
 * [abc](https://open.kattis.com/problems/abc) - Python 
 * [quadrant](https://open.kattis.com/problems/quadrant) - C++ 
 
-Count: 90
+Count: 93
 
 ## Ranking
-Score: **205.8**
+Score: **211.4**
 
-Rank: **3499**
+Rank: **3384**
 
 
 
