@@ -57,6 +57,7 @@
 * [grassseed](https://open.kattis.com/problems/grassseed) - C++ 
 * [greetings2](https://open.kattis.com/problems/greetings2) - Python 
 * [guess](https://open.kattis.com/problems/guess) - C++ 
+* [guessthedatastructure](https://open.kattis.com/problems/guessthedatastructure) - C++ 
 * [heimavinna](https://open.kattis.com/problems/heimavinna) - Python 
 * [hello](https://open.kattis.com/problems/hello) - Python, Java, C 
 * [hissingmicrophone](https://open.kattis.com/problems/hissingmicrophone) - Python 
@@ -66,6 +67,7 @@
 * [keywords](https://open.kattis.com/problems/keywords) - Python 
 * [ladder](https://open.kattis.com/problems/ladder) - C++ 
 * [lastfactorialdigit](https://open.kattis.com/problems/lastfactorialdigit) - Python 
+* [lineup](https://open.kattis.com/problems/lineup) - Python 
 * [mandelbrot](https://open.kattis.com/problems/mandelbrot) - C++ 
 * [matrix](https://open.kattis.com/problems/matrix) - C++ 
 * [mixedfractions](https://open.kattis.com/problems/mixedfractions) - C++ 
@@ -79,6 +81,7 @@
 * [phonelist](https://open.kattis.com/problems/phonelist) - C++ 
 * [pieceofcake2](https://open.kattis.com/problems/pieceofcake2) - C++ 
 * [planina](https://open.kattis.com/problems/planina) - C++ 
+* [plantingtrees](https://open.kattis.com/problems/plantingtrees) - Python 
 * [pot](https://open.kattis.com/problems/pot) - C 
 * [proofs](https://open.kattis.com/problems/proofs) - Python 
 * [qaly](https://open.kattis.com/problems/qaly) - C++ 
@@ -107,12 +110,12 @@
 * [vote](https://open.kattis.com/problems/vote) - Python 
 * [zamka](https://open.kattis.com/problems/zamka) - C++ 
 
-Count: 99
+Count: 102
 
 ## Ranking
-Score: **219.7**
+Score: **224.8**
 
-Rank: **3213**
+Rank: **3115**
 
 
 
