@@ -40,6 +40,7 @@
 * [different](https://open.kattis.com/problems/different) - Python 
 * [distance](https://open.kattis.com/problems/distance) - Python 
 * [earlywinter](https://open.kattis.com/problems/earlywinter) - C 
+* [echoechoecho](https://open.kattis.com/problems/echoechoecho) - Python 
 * [electricaloutlets](https://open.kattis.com/problems/electricaloutlets) - Python 
 * [estimatingtheareaofacircle](https://open.kattis.com/problems/estimatingtheareaofacircle) - Python 
 * [everywhere](https://open.kattis.com/problems/everywhere) - Python 
@@ -53,6 +54,7 @@
 * [getshorty](https://open.kattis.com/problems/getshorty) - C++ 
 * [glitchbot](https://open.kattis.com/problems/glitchbot) - C++ 
 * [grandpabernie](https://open.kattis.com/problems/grandpabernie) - Python 
+* [grassseed](https://open.kattis.com/problems/grassseed) - C++ 
 * [greetings2](https://open.kattis.com/problems/greetings2) - Python 
 * [guess](https://open.kattis.com/problems/guess) - C++ 
 * [heimavinna](https://open.kattis.com/problems/heimavinna) - Python 
@@ -70,6 +72,7 @@
 * [modulo](https://open.kattis.com/problems/modulo) - Python 
 * [nastyhacks](https://open.kattis.com/problems/nastyhacks) - C++ 
 * [ninetynine](https://open.kattis.com/problems/ninetynine) - C++ 
+* [oddecho](https://open.kattis.com/problems/oddecho) - Python 
 * [oddities](https://open.kattis.com/problems/oddities) - C++ 
 * [onechicken](https://open.kattis.com/problems/onechicken) - Python 
 * [pet](https://open.kattis.com/problems/pet) - Python 
@@ -104,12 +107,12 @@
 * [vote](https://open.kattis.com/problems/vote) - Python 
 * [zamka](https://open.kattis.com/problems/zamka) - C++ 
 
-Count: 96
+Count: 99
 
 ## Ranking
-Score: **214.4**
+Score: **219.7**
 
-Rank: **3317**
+Rank: **3213**
 
 
 
