@@ -34,6 +34,7 @@ def main():
 
     # inits
     text = '\n'
+    # cause regex but regex is slow af
     mapping = {'py': 'Python', '.c': 'C', 'pp': 'C++', 'va': "Java", 'go': "Golang", 'js': "JavaScript"}
 
     # generate clipboard items
