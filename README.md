@@ -87,9 +87,12 @@
 * [qaly](https://open.kattis.com/problems/qaly) - C++ 
 * [quadrant](https://open.kattis.com/problems/quadrant) - C++ 
 * [quickbrownfox](https://open.kattis.com/problems/quickbrownfox) - C++ 
+* [quickestimate](https://open.kattis.com/problems/quickestimate) - Python 
 * [r2](https://open.kattis.com/problems/r2) - C++ 
 * [reversebinary](https://open.kattis.com/problems/reversebinary) - Python 
+* [server](https://open.kattis.com/problems/server) - C++ 
 * [sevenwonders](https://open.kattis.com/problems/sevenwonders) - Python 
+* [shortestpath1](https://open.kattis.com/problems/shortestpath1) - C++ 
 * [sibice](https://open.kattis.com/problems/sibice) - C++ 
 * [simonsays](https://open.kattis.com/problems/simonsays) - Python 
 * [simplearithmetic](https://open.kattis.com/problems/simplearithmetic) - C++ 
@@ -110,12 +113,12 @@
 * [vote](https://open.kattis.com/problems/vote) - Python 
 * [zamka](https://open.kattis.com/problems/zamka) - C++ 
 
-Count: 102
+Count: 105
 
 ## Ranking
-Score: **224.8**
+Score: **239.7**
 
-Rank: **3115**
+Rank: **2872**
 
 
 
