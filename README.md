@@ -31,6 +31,7 @@
 * [beeproblem](https://open.kattis.com/problems/beeproblem) - C++ 
 * [bela](https://open.kattis.com/problems/bela) - Python 
 * [bijele](https://open.kattis.com/problems/bijele) - C++ 
+* [busnumbers](https://open.kattis.com/problems/busnumbers) - C++ 
 * [carrots](https://open.kattis.com/problems/carrots) - C++ 
 * [cd](https://open.kattis.com/problems/cd) - C++ 
 * [classpicture](https://open.kattis.com/problems/classpicture) - C++ 
@@ -76,6 +77,7 @@
 * [ninetynine](https://open.kattis.com/problems/ninetynine) - C++ 
 * [oddecho](https://open.kattis.com/problems/oddecho) - Python 
 * [oddities](https://open.kattis.com/problems/oddities) - C++ 
+* [oddmanout](https://open.kattis.com/problems/oddmanout) - Python 
 * [onechicken](https://open.kattis.com/problems/onechicken) - Python 
 * [pet](https://open.kattis.com/problems/pet) - Python 
 * [phonelist](https://open.kattis.com/problems/phonelist) - C++ 
@@ -90,6 +92,7 @@
 * [quickestimate](https://open.kattis.com/problems/quickestimate) - Python 
 * [r2](https://open.kattis.com/problems/r2) - C++ 
 * [reversebinary](https://open.kattis.com/problems/reversebinary) - Python 
+* [sequences](https://open.kattis.com/problems/sequences) - Python 
 * [server](https://open.kattis.com/problems/server) - C++ 
 * [sevenwonders](https://open.kattis.com/problems/sevenwonders) - Python 
 * [shortestpath1](https://open.kattis.com/problems/shortestpath1) - C++ 
@@ -113,12 +116,12 @@
 * [vote](https://open.kattis.com/problems/vote) - Python 
 * [zamka](https://open.kattis.com/problems/zamka) - C++ 
 
-Count: 105
+Count: 108
 
 ## Ranking
-Score: **239.7**
+Score: **242.5**
 
-Rank: **2872**
+Rank: **2824**
 
 
 
