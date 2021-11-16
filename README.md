@@ -17,6 +17,7 @@
 * [aaah](https://open.kattis.com/problems/aaah) - C++ 
 * [abc](https://open.kattis.com/problems/abc) - Python 
 * [aboveaverage](https://open.kattis.com/problems/aboveaverage) - C++ 
+* [acm](https://open.kattis.com/problems/acm) - Python 
 * [addingwords](https://open.kattis.com/problems/addingwords) - Python 
 * [addtwonumbers](https://open.kattis.com/problems/addtwonumbers) - Python 
 * [akcija](https://open.kattis.com/problems/akcija) - C++ 
@@ -73,8 +74,10 @@
 * [matrix](https://open.kattis.com/problems/matrix) - C++ 
 * [mixedfractions](https://open.kattis.com/problems/mixedfractions) - C++ 
 * [modulo](https://open.kattis.com/problems/modulo) - Python 
+* [modulodatastructures](https://open.kattis.com/problems/modulodatastructures) - Python 
 * [nastyhacks](https://open.kattis.com/problems/nastyhacks) - C++ 
 * [ninetynine](https://open.kattis.com/problems/ninetynine) - C++ 
+* [nodup](https://open.kattis.com/problems/nodup) - Python 
 * [oddecho](https://open.kattis.com/problems/oddecho) - Python 
 * [oddities](https://open.kattis.com/problems/oddities) - C++ 
 * [oddmanout](https://open.kattis.com/problems/oddmanout) - Python 
@@ -116,12 +119,12 @@
 * [vote](https://open.kattis.com/problems/vote) - Python 
 * [zamka](https://open.kattis.com/problems/zamka) - C++ 
 
-Count: 108
+Count: 111
 
 ## Ranking
-Score: **242.5**
+Score: **250.7**
 
-Rank: **2824**
+Rank: **2691**
 
 
 
