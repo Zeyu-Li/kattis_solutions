@@ -38,6 +38,7 @@
 * [classpicture](https://open.kattis.com/problems/classpicture) - C++ 
 * [cold](https://open.kattis.com/problems/cold) - C++ 
 * [cursethedarkness](https://open.kattis.com/problems/cursethedarkness) - C 
+* [detaileddifferences](https://open.kattis.com/problems/detaileddifferences) - Python 
 * [dicecup](https://open.kattis.com/problems/dicecup) - C++ 
 * [different](https://open.kattis.com/problems/different) - Python 
 * [distance](https://open.kattis.com/problems/distance) - Python 
@@ -60,8 +61,9 @@
 * [greetings2](https://open.kattis.com/problems/greetings2) - Python 
 * [guess](https://open.kattis.com/problems/guess) - C++ 
 * [guessthedatastructure](https://open.kattis.com/problems/guessthedatastructure) - C++ 
+* [heartrate](https://open.kattis.com/problems/heartrate) - C++ 
 * [heimavinna](https://open.kattis.com/problems/heimavinna) - Python 
-* [hello](https://open.kattis.com/problems/hello) - Python, Java, C 
+* [hello](https://open.kattis.com/problems/hello) - Java, Python, C 
 * [hissingmicrophone](https://open.kattis.com/problems/hissingmicrophone) - Python 
 * [isithalloween](https://open.kattis.com/problems/isithalloween) - Python 
 * [joinstrings](https://open.kattis.com/problems/joinstrings) - C++ 
@@ -82,6 +84,7 @@
 * [oddities](https://open.kattis.com/problems/oddities) - C++ 
 * [oddmanout](https://open.kattis.com/problems/oddmanout) - Python 
 * [onechicken](https://open.kattis.com/problems/onechicken) - Python 
+* [ozljeda](https://open.kattis.com/problems/ozljeda) - C++ 
 * [pet](https://open.kattis.com/problems/pet) - Python 
 * [phonelist](https://open.kattis.com/problems/phonelist) - C++ 
 * [pieceofcake2](https://open.kattis.com/problems/pieceofcake2) - C++ 
@@ -111,6 +114,7 @@
 * [teque](https://open.kattis.com/problems/teque) - C++ 
 * [timeloop](https://open.kattis.com/problems/timeloop) - C++ 
 * [trainboarding](https://open.kattis.com/problems/trainboarding) - Python 
+* [tri](https://open.kattis.com/problems/tri) - Python 
 * [trik](https://open.kattis.com/problems/trik) - Python 
 * [tsp](https://open.kattis.com/problems/tsp) - C++ 
 * [twostones](https://open.kattis.com/problems/twostones) - C++ 
@@ -119,12 +123,12 @@
 * [vote](https://open.kattis.com/problems/vote) - Python 
 * [zamka](https://open.kattis.com/problems/zamka) - C++ 
 
-Count: 111
+Count: 115
 
 ## Ranking
-Score: **250.7**
+Score: **256.2**
 
-Rank: **2691**
+Rank: **2631**
 
 
 
