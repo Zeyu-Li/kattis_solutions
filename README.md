@@ -29,6 +29,7 @@
 * [autori](https://open.kattis.com/problems/autori) - Python 
 * [backspace](https://open.kattis.com/problems/backspace) - Python 
 * [bank](https://open.kattis.com/problems/bank) - C++ 
+* [batterup](https://open.kattis.com/problems/batterup) - Python 
 * [beeproblem](https://open.kattis.com/problems/beeproblem) - C++ 
 * [bela](https://open.kattis.com/problems/bela) - Python 
 * [bijele](https://open.kattis.com/problems/bijele) - C++ 
@@ -124,12 +125,12 @@
 * [vote](https://open.kattis.com/problems/vote) - Python 
 * [zamka](https://open.kattis.com/problems/zamka) - C++ 
 
-Count: 116
+Count: 117
 
 ## Ranking
-Score: **258.1**
+Score: **261.7**
 
-Rank: **2601**
+Rank: **2578**
 
 
 
