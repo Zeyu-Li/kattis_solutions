@@ -53,3 +53,4 @@ dkms.conf
 generate.py
 martiandna/martiandna.cpp
 plantingtrees/plantingtrees.cpp
+.vscode/*
