@@ -34,6 +34,7 @@
 * [bela](https://open.kattis.com/problems/bela) - Python 
 * [bijele](https://open.kattis.com/problems/bijele) - C++ 
 * [busnumbers](https://open.kattis.com/problems/busnumbers) - C++ 
+* [calculator](https://open.kattis.com/problems/calculator) - Python 
 * [carrots](https://open.kattis.com/problems/carrots) - C++ 
 * [cd](https://open.kattis.com/problems/cd) - C++ 
 * [classpicture](https://open.kattis.com/problems/classpicture) - C++ 
@@ -73,6 +74,7 @@
 * [joinstrings](https://open.kattis.com/problems/joinstrings) - C++ 
 * [judgingmoose](https://open.kattis.com/problems/judgingmoose) - Python 
 * [keywords](https://open.kattis.com/problems/keywords) - Python 
+* [knapsack](https://open.kattis.com/problems/knapsack) - C++ 
 * [ladder](https://open.kattis.com/problems/ladder) - C++ 
 * [lastfactorialdigit](https://open.kattis.com/problems/lastfactorialdigit) - Python 
 * [lineup](https://open.kattis.com/problems/lineup) - Python 
@@ -130,12 +132,12 @@
 * [vote](https://open.kattis.com/problems/vote) - Python 
 * [zamka](https://open.kattis.com/problems/zamka) - C++ 
 
-Count: 122
+Count: 124
 
 ## Ranking
-Score: **277.0**
+Score: **288.0**
 
-Rank: **2610**
+Rank: **2479**
 
 
 
