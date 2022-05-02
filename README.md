@@ -65,7 +65,7 @@
 * [guessthedatastructure](https://open.kattis.com/problems/guessthedatastructure) - C++ 
 * [heartrate](https://open.kattis.com/problems/heartrate) - C++ 
 * [heimavinna](https://open.kattis.com/problems/heimavinna) - Python 
-* [hello](https://open.kattis.com/problems/hello) - Java, Python, C 
+* [hello](https://open.kattis.com/problems/hello) - Python, C, Java 
 * [hissingmicrophone](https://open.kattis.com/problems/hissingmicrophone) - Python 
 * [isithalloween](https://open.kattis.com/problems/isithalloween) - Python 
 * [jackolanternjuxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) - Python 
@@ -83,6 +83,7 @@
 * [nastyhacks](https://open.kattis.com/problems/nastyhacks) - C++ 
 * [ninetynine](https://open.kattis.com/problems/ninetynine) - C++ 
 * [nodup](https://open.kattis.com/problems/nodup) - Python 
+* [numberfun](https://open.kattis.com/problems/numberfun) - Python 
 * [oddecho](https://open.kattis.com/problems/oddecho) - Python 
 * [oddities](https://open.kattis.com/problems/oddities) - C++ 
 * [oddmanout](https://open.kattis.com/problems/oddmanout) - Python 
@@ -126,12 +127,12 @@
 * [vote](https://open.kattis.com/problems/vote) - Python 
 * [zamka](https://open.kattis.com/problems/zamka) - C++ 
 
-Count: 118
+Count: 119
 
 ## Ranking
-Score: **272.1**
+Score: **273.0**
 
-Rank: **2484**
+Rank: **2657**
 
 
 
