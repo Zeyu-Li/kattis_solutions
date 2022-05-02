@@ -39,6 +39,7 @@
 * [classpicture](https://open.kattis.com/problems/classpicture) - C++ 
 * [classy](https://open.kattis.com/problems/classy) - Python 
 * [cold](https://open.kattis.com/problems/cold) - C++ 
+* [countingstars](https://open.kattis.com/problems/countingstars) - C++ 
 * [cursethedarkness](https://open.kattis.com/problems/cursethedarkness) - C 
 * [detaileddifferences](https://open.kattis.com/problems/detaileddifferences) - Python 
 * [dicecup](https://open.kattis.com/problems/dicecup) - C++ 
@@ -120,19 +121,21 @@
 * [trainboarding](https://open.kattis.com/problems/trainboarding) - Python 
 * [tri](https://open.kattis.com/problems/tri) - Python 
 * [trik](https://open.kattis.com/problems/trik) - Python 
+* [tripletexting](https://open.kattis.com/problems/tripletexting) - Python 
 * [tsp](https://open.kattis.com/problems/tsp) - C++ 
 * [twostones](https://open.kattis.com/problems/twostones) - C++ 
+* [twosum](https://open.kattis.com/problems/twosum) - Python 
 * [unionfind](https://open.kattis.com/problems/unionfind) - C++ 
 * [vaccineefficacy](https://open.kattis.com/problems/vaccineefficacy) - Python 
 * [vote](https://open.kattis.com/problems/vote) - Python 
 * [zamka](https://open.kattis.com/problems/zamka) - C++ 
 
-Count: 119
+Count: 122
 
 ## Ranking
-Score: **273.0**
+Score: **277.0**
 
-Rank: **2657**
+Rank: **2610**
 
 
 
