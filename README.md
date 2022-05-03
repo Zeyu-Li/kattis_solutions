@@ -27,8 +27,11 @@
 * [apaxiaaans](https://open.kattis.com/problems/apaxiaaans) - C++ 
 * [askmarilyn](https://open.kattis.com/problems/askmarilyn) - C++ 
 * [autori](https://open.kattis.com/problems/autori) - Python 
+* [babelfish](https://open.kattis.com/problems/babelfish) - Python 
 * [backspace](https://open.kattis.com/problems/backspace) - Python 
 * [bank](https://open.kattis.com/problems/bank) - C++ 
+* [basicprogramming1](https://open.kattis.com/problems/basicprogramming1) - Python, C++ 
+* [basicprogramming2](https://open.kattis.com/problems/basicprogramming2) - Python, C++ 
 * [batterup](https://open.kattis.com/problems/batterup) - Python 
 * [beeproblem](https://open.kattis.com/problems/beeproblem) - C++ 
 * [bela](https://open.kattis.com/problems/bela) - Python 
@@ -132,12 +135,12 @@
 * [vote](https://open.kattis.com/problems/vote) - Python 
 * [zamka](https://open.kattis.com/problems/zamka) - C++ 
 
-Count: 124
+Count: 127
 
 ## Ranking
-Score: **288.0**
+Score: **292.7**
 
-Rank: **2479**
+Rank: **2435**
 
 
 
