@@ -22,6 +22,7 @@
 * [addtwonumbers](https://open.kattis.com/problems/addtwonumbers) - Python 
 * [akcija](https://open.kattis.com/problems/akcija) - C++ 
 * [almostperfect](https://open.kattis.com/problems/almostperfect) - C++ 
+* [alphabetspam](https://open.kattis.com/problems/alphabetspam) - Python 
 * [anewalphabet](https://open.kattis.com/problems/anewalphabet) - Python 
 * [ants](https://open.kattis.com/problems/ants) - C 
 * [apaxiaaans](https://open.kattis.com/problems/apaxiaaans) - C++ 
@@ -98,6 +99,7 @@
 * [pet](https://open.kattis.com/problems/pet) - Python 
 * [phonelist](https://open.kattis.com/problems/phonelist) - C++ 
 * [pieceofcake2](https://open.kattis.com/problems/pieceofcake2) - C++ 
+* [pivot](https://open.kattis.com/problems/pivot) - C++ 
 * [planina](https://open.kattis.com/problems/planina) - C++ 
 * [plantingtrees](https://open.kattis.com/problems/plantingtrees) - Python 
 * [pot](https://open.kattis.com/problems/pot) - C 
@@ -107,6 +109,7 @@
 * [quickbrownfox](https://open.kattis.com/problems/quickbrownfox) - C++ 
 * [quickestimate](https://open.kattis.com/problems/quickestimate) - Python 
 * [r2](https://open.kattis.com/problems/r2) - C++ 
+* [reverse](https://open.kattis.com/problems/reverse) - C++ 
 * [reversebinary](https://open.kattis.com/problems/reversebinary) - Python 
 * [sequences](https://open.kattis.com/problems/sequences) - Python 
 * [server](https://open.kattis.com/problems/server) - C++ 
@@ -119,6 +122,7 @@
 * [spavanac](https://open.kattis.com/problems/spavanac) - C++ 
 * [speedLimit](https://open.kattis.com/problems/speedLimit) - Python 
 * [stopwatch](https://open.kattis.com/problems/stopwatch) - Python 
+* [sumkindofproblem](https://open.kattis.com/problems/sumkindofproblem) - C++ 
 * [tarifa](https://open.kattis.com/problems/tarifa) - C++ 
 * [telephones](https://open.kattis.com/problems/telephones) - Python 
 * [teque](https://open.kattis.com/problems/teque) - C++ 
@@ -135,12 +139,12 @@
 * [vote](https://open.kattis.com/problems/vote) - Python 
 * [zamka](https://open.kattis.com/problems/zamka) - C++ 
 
-Count: 127
+Count: 131
 
 ## Ranking
-Score: **292.7**
+Score: **302.7**
 
-Rank: **2435**
+Rank: **2331**
 
 
 
